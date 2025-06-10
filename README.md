@@ -20,7 +20,7 @@
 - Laravel
 
 ## Demo
-[Demo](https://dailysieure.vn)
+[Demo](https://vpnthaga.asia)
 
 ## Tính năng
 - Đặc Biệt: Thêm WEB con cho CTV.
@@ -37,7 +37,6 @@
 
 vào App Store > PHP 7.4 > Install extensions > ionCube
 ```
-Ty đẹp trai hiện giữ bản quyền crack này
 ```
 
 
@@ -46,8 +45,7 @@ Làm theo mẫu trong vấn đề để gửi câu hỏi của bạn một cách
 
 
 ## Giấy phép
-- [Zalo](https://zalo.me/0397333616)
+- [Zalo](https://zalo.me/0377181098)
 
 **Lưu ý:** TyBoard không phải là phần mềm miễn phí. Nếu bạn muốn mua giấy phép, vui lòng liên hệ với chúng tôi qua zalo. Hiện tại, trang quản trị chỉ hỗ trợ tiếng Việt.
 
-TYBOARD LÀ 1 BẢN CRACK BỞI VÌ ANH MẤT EM RỒI.
