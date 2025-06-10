@@ -37,6 +37,7 @@
 
 vào App Store > PHP 7.4 > Install extensions > ionCube
 ```
+git clone https://github.com/kutycma/ZicBoard-Public.git ./
 ```
 
 
