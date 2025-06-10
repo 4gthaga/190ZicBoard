@@ -6,8 +6,8 @@
 
 ## Nhánh này hỗ trợ các backend sau
 
-- [AikoServer]
-- [Aiko-Server]
+- [AikoServer](https://github.com/AikoPanel/AikoServer)
+- [Aiko-Server](https://github.com/Github-Aiko/Aiko-Server)
 - [XrayR wyx2685](https://github.com/wyx2685/XrayR)
 
 
