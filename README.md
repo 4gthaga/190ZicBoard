@@ -11,7 +11,7 @@
 - [XrayR wyx2685](https://github.com/wyx2685/XrayR)
 
 
-# **TyBoard**
+# **Zicboard**
 
 - PHP ^7.4 + Loader Ioncube
 - Composer
@@ -48,5 +48,5 @@ Làm theo mẫu trong vấn đề để gửi câu hỏi của bạn một cách
 ## Giấy phép
 - [Zalo](https://zalo.me/0377181098)
 
-**Lưu ý:** TyBoard không phải là phần mềm miễn phí. Nếu bạn muốn mua giấy phép, vui lòng liên hệ với chúng tôi qua zalo. Hiện tại, trang quản trị chỉ hỗ trợ tiếng Việt.
+**Lưu ý:** Zicboard không phải là phần mềm miễn phí. Nếu bạn muốn mua giấy phép, vui lòng liên hệ với chúng tôi qua zalo. Hiện tại, trang quản trị chỉ hỗ trợ tiếng Việt.
 
