@@ -1,0 +1,32 @@
+vào aapanel : /www/wwwroot/domain/public xong tạo 1 thực mục đặt tên là thanhtoan
+
+Copy 2 file AutoACB_DVS.php và ViettelMoney_DVS.php vào www/wwwroot/domain/app/Payments rồi dán vào xong quay lại file thanhtoan  Vào Config.php 
+
+        'HOST' => "localhost",
+        'DBNAME' => "data" , // DB_DATABASE trong file.env
+        'USERNAME' => "data", // DB_USERNAME trong file .env
+        'PASSWORD' => "data", // DB_PASSWORD trong file .env
+
+Token ngân hàng lấy ở https://api.vpnfast.vn
+
+Vào telegram nhắn với bot : https://t.me/apivpnfast_bot
+
+Lấy chatid bằng bot telegram : https://t.me/getmyid_bot
+
+Xong ấn vào phần Cron kế APP Store 
+
+name of stack ( điền gì cũng đc )
+Execution cycle : Chọn N Minutes 1 phút 
+
+Sau đó dán link Cron như sau 
+
+sleep 30;php /www/wwwroot/AikoPanel/public/thanhtoan/Cron_AutoACB.php      (Ngân hàng ACB)
+sleep 30;php /www/wwwroot/AikoPanel/public/thanhtoan/Cron_AutoViettelPay.php  (ViettelMoney)
+
+vào trang admin của website => Cấu hình thanh toán : Chọn đúng ngân hàng cần làm auto 
+Ví dụ AutoACB_DVS ( Ngân hàng ACB) hoặc ViettelMoney_DVS (ViettelMoney) rồi cấu hình trang thanh toán là xong 
+
+Cổng thanh toán : https://domain.com/thanhtoan
+
+BANKID MB Bank : 970422
+BANKID ACB : 970416

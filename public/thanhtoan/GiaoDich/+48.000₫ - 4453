@@ -1,0 +1,17 @@
+{
+    "amount": 48000,
+    "accountName": "TKTT TRUC TUYEN KHTN (CN) VND",
+    "receiverName": "",
+    "transactionNumber": 4453,
+    "description": "VPNF4680 GD 652354-070524 20:46:35",
+    "bankName": "",
+    "isOnline": false,
+    "postingDate": 1720198800000,
+    "accountOwner": null,
+    "type": "IN",
+    "receiverAccountNumber": "",
+    "currency": "VND",
+    "account": 15873021,
+    "activeDatetime": 1720187196000,
+    "effectiveDate": 1720198800000
+}

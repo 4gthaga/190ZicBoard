@@ -1,0 +1,17 @@
+{
+    "amount": 75000,
+    "accountName": "TKTT TRUC TUYEN KHTN (CN) VND",
+    "receiverName": "TO THANH TRANG",
+    "transactionNumber": 4456,
+    "description": "IB DH27433",
+    "bankName": "ACB - NH TMCP A CHAU",
+    "isOnline": true,
+    "postingDate": 1720198800000,
+    "accountOwner": null,
+    "type": "OUT",
+    "receiverAccountNumber": "",
+    "currency": "VND",
+    "account": 15873021,
+    "activeDatetime": 1720193859000,
+    "effectiveDate": 1720198800000
+}

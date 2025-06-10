@@ -1,0 +1,17 @@
+{
+    "amount": 190000,
+    "accountName": "TKTT TRUC TUYEN KHTN (CN) VND",
+    "receiverName": "LE VAN KHANH",
+    "transactionNumber": 4442,
+    "description": "LE VAN KHANH chuyen khoan-050724-06:08:19 721011",
+    "bankName": "",
+    "isOnline": true,
+    "postingDate": 1720112400000,
+    "accountOwner": null,
+    "type": "OUT",
+    "receiverAccountNumber": "",
+    "currency": "VND",
+    "account": 15873021,
+    "activeDatetime": 1720134500000,
+    "effectiveDate": 1720112400000
+}

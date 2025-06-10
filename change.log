@@ -1,0 +1,10 @@
+thêm sql
+
+ALTER TABLE `v2_server_vmess` ADD `checkserver` INT(11) NOT NULL DEFAULT '0' AFTER `show`;
+ALTER TABLE `v2_server_vless` ADD `checkserver` INT(11) NOT NULL DEFAULT '0' AFTER `show`;
+ALTER TABLE `v2_server_trojan` ADD `checkserver` INT(11) NOT NULL DEFAULT '0' AFTER `show`;
+ALTER TABLE `v2_server_shadowsocks` ADD `checkserver` INT(11) NOT NULL DEFAULT '0' AFTER `show`;
+ALTER TABLE `v2_server_hysteria` ADD `checkserver` INT(11) NOT NULL DEFAULT '0' AFTER `show`;
+ALTER TABLE `v2_ticket` ADD `id_staff` INT(11) NULL AFTER `user_id`;
+ALTER TABLE `v2_payment` ADD `keyword` VARCHAR(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL AFTER `payment`, ADD `bank_id` INT(11) NULL DEFAULT NULL AFTER `keyword`, ADD `acc_name` VARCHAR(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL AFTER `bank_id`, ADD `acc_number` VARCHAR(100) NULL DEFAULT NULL AFTER `acc_name`, ADD `token` VARCHAR(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NULL DEFAULT NULL AFTER `acc_number`;
+ALTER TABLE `v2_payment` ADD `id_staff` VARCHAR(255) NULL AFTER `payment`;

@@ -1,0 +1,17 @@
+{
+    "amount": 120000,
+    "accountName": "TKTT TRUC TUYEN KHTN (CN) VND",
+    "receiverName": "LE VAN KHANH",
+    "transactionNumber": 4435,
+    "description": "LE VAN KHANH chuyen khoan-040724-15:30:54 156876",
+    "bankName": "SACOMBANK - NH TMCP SAI GON THUONG TIN",
+    "isOnline": true,
+    "postingDate": 1720026000000,
+    "accountOwner": null,
+    "type": "OUT",
+    "receiverAccountNumber": "",
+    "currency": "VND",
+    "account": 15873021,
+    "activeDatetime": 1720081856000,
+    "effectiveDate": 1720026000000
+}

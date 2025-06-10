@@ -1,0 +1,17 @@
+{
+    "amount": 16000,
+    "accountName": "TKTT TRUC TUYEN KHTN (CN) VND",
+    "receiverName": "",
+    "transactionNumber": 4454,
+    "description": "MBVCB.6436311711.988689.VPNF4681.CT tu 1013832056 LE VAN MANH toi 15873021 LE VAN KHANH tai ACB GD 988689-070524 21:01:34",
+    "bankName": "",
+    "isOnline": false,
+    "postingDate": 1720198800000,
+    "accountOwner": null,
+    "type": "IN",
+    "receiverAccountNumber": "",
+    "currency": "VND",
+    "account": 15873021,
+    "activeDatetime": 1720188094000,
+    "effectiveDate": 1720198800000
+}
